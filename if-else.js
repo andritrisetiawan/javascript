@@ -9,9 +9,7 @@ function jalanSatu() {
       console.log("Salah")
   }
 
-  //cara 2 if else
-    // if(nilai === 2)console.log("OK")
-    //   else console.log("BUKAN")
+
 }
 
 jalanSatu()
